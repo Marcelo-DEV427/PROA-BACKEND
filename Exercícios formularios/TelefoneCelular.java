@@ -49,7 +49,7 @@ public class TelefoneCelular {
         this.temCamera = temCamera;
     }
 
-    // Método principal
+    
     public static void main(String[] args) {
 
         TelefoneCelular celular = new TelefoneCelular();
